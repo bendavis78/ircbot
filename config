@@ -1,0 +1,13 @@
+{
+  "connections":
+  {
+    "farstar irc":
+    {
+      "server": "irc.freenode.net",
+      "nick": "farbot",
+      "user": "farbot",
+      "channels": ["#farstar"],
+      "realname": "farbot - a fork of forrstdotcom - a fork of skybot"
+    }
+  }
+}
